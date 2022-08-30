@@ -7,7 +7,7 @@
 긍정이 가진 매력을 은은하고 우아하게 뿜어낼 수 있는 사람이 되길.
 
 ---
-### Tech Stack
+## Tech Stack
 
 <h3>Back-End</h3>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
