@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-당신의 필요를 채워주는,<br>
-개발자 <strong>박도빈</strong> 입니다.
+당신의 필요를 채워주는,
+
+개발자 **박도빈** 입니다.
 
 긍정이 가진 매력을 은은하고 우아하게 뿜어낼 수 있는 사람이 되길.
-
-<h1>Tech</h1>
+---
+### Tech Stack
 
 <h3>Back-End</h3>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
