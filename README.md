@@ -28,3 +28,6 @@
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+
+![Park Gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobinpark&show_icons=true&theme=radical)
