@@ -39,4 +39,4 @@
 ![APACHETOMCAT](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
 
-![Park Gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobinpark&show_icons=true&theme=radical)
+![Park Gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobinpark)](https://github.com/anuraghazra/github-readme-stats)
