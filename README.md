@@ -6,15 +6,12 @@
 * 컴퓨터를 좋아하고 나만의 애플리케이션을 만들고 싶다는 흥미가 생겨 본격적으로 공부하기 시작했습니다.
 * 현재는 Spring의 기본 원리와 DB, 자료구조와 알고리즘에 대해 공부하고 있습니다.
 <br>
-<br>
 ### ✨ Who is DoBin Park? ✨
 
 * 🖥 Korea National Open University Graduation
 * 👨🏻‍💻 I'm currently learning Java/Spring & Server
 * 🎶 I enjoy drive and Game Play and nstrument playing
-
 <br>
-
 ### 🙆🏻‍♂️Tech Stack
 
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
