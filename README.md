@@ -1,8 +1,7 @@
 ![리드미1](https://github.com/dobinpark/dobinpark/assets/53501690/ae6d4305-6ac6-4a0c-abc9-272cd9931361)
 
+### ✌ **Introduction**
 <hr>
-
-### ✌ **Nice Way to meet me**
 
 * 자바를 좋아하고 개발에 흥미를 느끼는, 백엔드 개발자 '박도빈' 입니다.
 * 어려운 문제와 마주쳐도 끈기있게 매달리고, 문제 해결 과정 자체에 성취감을 느낍니다.
