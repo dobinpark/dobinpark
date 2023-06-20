@@ -1,5 +1,6 @@
 ![리드미1](https://github.com/dobinpark/dobinpark/assets/53501690/ae6d4305-6ac6-4a0c-abc9-272cd9931361)
 
+<div align=center>
 ### ✌ **Introduction**
 <hr>
 
@@ -42,7 +43,7 @@
 ![LINUX](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 ![APACHETOMCAT](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
-
+</div>
 
 <br>
 
