@@ -7,14 +7,7 @@
 어려운 문제와 마주쳐도 끈기있게 매달리고, 문제 해결 과정 자체에 성취감을 느낍니다.
 <br>
 
-### ✨ Who is DoBin Park? ✨
-
-* 🖥 Korea National Open University Graduation
-* 👨🏻‍💻 I'm currently learning Java & Server
-* 🎶 I enjoy drive and Game Play and nstrument playing
-<br>
-
-### 🙆🏻‍♂️Tech Stack
+🙆🏻‍♂️<h2>Tech Stack</h2>
 
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
