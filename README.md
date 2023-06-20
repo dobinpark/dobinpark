@@ -1,4 +1,6 @@
-![리드미1](https://github.com/dobinpark/dobinpark/assets/53501690/fd24927e-79f4-41ef-81e9-57c94d6b6543)
+![리드미1](https://github.com/dobinpark/dobinpark/assets/53501690/ae6d4305-6ac6-4a0c-abc9-272cd9931361)
+
+<hr>
 
 ### ✌ **Nice Way to meet me**
 
