@@ -1,13 +1,13 @@
 ![리드미1](https://github.com/dobinpark/dobinpark/assets/53501690/ae6d4305-6ac6-4a0c-abc9-272cd9931361)
 
 <div align=center>
-✌ <h2>Introduction</h2>
+  <h2>✌Introduction</h2>
 
 자바를 좋아하고 개발에 흥미를 느끼는, 백엔드 개발자 '박도빈' 입니다.<br>
 어려운 문제와 마주쳐도 끈기있게 매달리고, 문제 해결 과정 자체에 성취감을 느낍니다.
 <br>
 
-🙆🏻‍♂️<h2>Tech Stack</h2>
+<h2>🙆🏻‍♂️Tech Stack</h2>
 
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
