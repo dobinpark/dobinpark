@@ -52,5 +52,5 @@
 ![APACHETOMCAT](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobinpark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dobinpark)
 </div>
